@@ -1,3 +1,14 @@
+/**
+ * AUTHOR: RONAK PANAHI
+ * Date: November 2015
+ * Problem:connection-oriented server and client programs 
+ * Each client contacts the server with an initial 
+ * message that specifies an integer value n. The client 
+ * then loops to receive n messages from the server, with 
+ * messages bearing the values n, n-1, n-2, …, 1 successively.
+ */
+ 
+ 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStream;
