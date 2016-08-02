@@ -1,4 +1,10 @@
-
+/**
+ * AUTHOR: RONAK PANAHI
+ * Date: November 2015
+ * This program opens a server socket on the http port, port 80, 
+ * and listens for requests from web browsers. When a request comes 
+ * for a file, it always sends a fixed single file. 
+ */ 
 
 import java.io.*;
 import java.net.ServerSocket;
